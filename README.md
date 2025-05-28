@@ -1,10 +1,7 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src = "https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&lines=CHUNG+SEONG+YUN+%F0%9F%91%8B;">
-  </a>
+  CHUNG SEONG YUN <img src="https://github.com/blackcater/blackcater/blob/main/images/Hi.gif" width="30"/>
 </h1>
 
-<div align="center">
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
